@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @muratcankirdar
+- 👋 Hi, I’m @muratcankirdar, Frontend dev
 - 👀 I’m interested in Basketball
 - 🌱 I’m currently learning Typescript and React
