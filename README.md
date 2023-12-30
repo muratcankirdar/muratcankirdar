@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @muratcankirdar, Frontend dev
-- 👀 I’m interested in Basketball
